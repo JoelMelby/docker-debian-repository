@@ -1,4 +1,4 @@
-FROM debian:testing
+FROM debian:stretch
 MAINTAINER Glenn Y. Rolland <glenux@glenux.net>
 
 ENV DEBIAN_FRONTEND noninteractive
